@@ -1,4 +1,4 @@
-Cogito, ergo sum
+# **Cogito, ergo sum**
 - 👋 Hi, I’m @wu840407. My Chinese name is Cheng-Rung Wu
 - 👀 I’m interested in machine learning and graph
 - 🌱 I’m currently learning degree program of ECE and CS Colleges, National Chiao Tung University.
