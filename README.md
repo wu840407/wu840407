@@ -1,4 +1,4 @@
-# **Cogito, ergo sum**
+
 # ChengRung Wu (吳承融) | AI Engineer & Researcher
 
 🔬 Currently building: Dialect ASR System (Low-resource Speech AI) @ MND
