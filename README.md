@@ -1,16 +1,8 @@
+### Hi, I'm Roger (ChengRung Wu) 👋
+AI infrastructure & speech-AI engineer — 9 years building mission-critical
+systems, now focused on self-hosted LLM infra and low-resource speech AI.
 
-# ChengRung Wu (吳承融) | AI Engineer & Researcher
-
-🔬 Currently building: Dialect ASR System (Low-resource Speech AI) @ MND
-🖥️ Hardware: RTX 4000×2 | H200×2 incoming (2026/09)
-🎯 Research: 3D Point Cloud Segmentation | Speech AI | MLOps
-
-## Tech Stack
-PyTorch | CUDA | Docker | Kafka | Python | C++
-
-## Featured Work
-- 📄 MultiBodyCuboids: Multi-body Motion Segmentation (NYCU Master Thesis)
-- 🎙️ Dialect-to-Text ASR System: Low-resource Taiwanese Mandarin (In Progress)
-- 🔐 CEH | HITCON CTF Participant
-
-📫 wu840407@gmail.com
+🔭 **Now**: air-gapped LLM platforms · multi-dialect ASR (YaYan-AI)
+🛠 **Stack**: Python · C++ · PyTorch · CUDA · vLLM · Docker · Kafka · Elasticsearch
+🎓 M.S. CS @ NYCU · AWS SAA · CEH · HITCON white-hat
+📫 wu840407@gmail.com · open to AI-infra / FDSE / backend roles (2027)
