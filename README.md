@@ -11,7 +11,7 @@
 | Project | What it is |
 |---------|------------|
 | **[enterprise-airgapped-llm](https://github.com/wu840407/enterprise-airgapped-llm)** | Production self-hosted LLM platform for air-gapped environments — 30B MoE (AWQ 4-bit) across dual Turing GPUs via tensor parallelism, 80–120 tok/s, sub-500 ms TTFT, zero cloud dependency. |
-| **[YaYan-AI](https://github.com/wu840407/YaYan-AI)** | Offline multi-dialect speech-intelligence system — 22 Chinese dialects + 40 languages, speaker diarization, character-level timestamps, LLM-assisted correction. |
+| **[YaYan-AI](https://github.com/wu840407/YaYan-AI)** | Offline multi-dialect speech-AI system — 22 Chinese dialects + 40 languages, speaker diarization, character-level timestamps, LLM-assisted correction. |
 | **[yolov5-parallel](https://github.com/wu840407/yolov5-parallel)** | Multi-GPU parallelized YOLOv5 training and inference pipeline. |
 | **[MultiBodyCuboids](https://github.com/wu840407/MultiBodyCuboids)** | M.S. thesis — multi-body motion segmentation for arbitrary numbers of disordered 3D point sets. |
 | **[openclaw-agents](https://github.com/wu840407/openclaw-agents)** | Autonomous LLM agents — OODA decision support, scheduled briefings, human-in-the-loop safety gates. |
