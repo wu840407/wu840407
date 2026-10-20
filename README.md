@@ -2,7 +2,7 @@
 
 **AI infrastructure engineer — I make large language models run fast on hardware that shouldn't be able to run them.**
 
-9 years building and deploying mission-critical systems. Currently focused on LLM inference optimization: quantization, tensor parallelism, and serving 30B-class models fully offline on constrained GPUs.
+9 years building and deploying mission-critical systems. Currently focused on LLM inference optimization: quantization, tensor parallelism, and serving 30B-class models fully offline on constrained GPUs — and now larger models in FP8 on H200.
 
 ---
 
